@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Anas Sghaier
 
-💻 Computer Science Graduate | Full-Stack Developer  
-🤖 AI & Robotics Enthusiast | 🎮 Unity & C# Developer
+💻 Full-Stack Developer | AI & Robotics | Unity & C#
+🎓 Computer Science Graduate | 🌐 WordPress | 🤖 Artificial Intelligence
 
 I'm a Computer Science graduate passionate about software development,
 artificial intelligence, robotics, web development and game development.
