@@ -100,8 +100,10 @@ Game Development & Artificial Intelligence Internship
 
 ## 📫 Contact
 
-- 💼 LinkedIn: [My LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: www.linkedin.com/in/med-anas-sghaier-35b373352
+
+
+- 📧 Email: anassghaier753@gmail.com
 
 ---
 
